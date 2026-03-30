@@ -13,7 +13,7 @@ It fetches player data, extracts equipped outfit items, downloads their icons, a
 
 🔗 API Endpoint
 
-http://127.0.0.1:5000/outfit-image?uid=PLAYER_UID&key=KALLU07
+http://127.0.0.1:5000/outfit-image?uid=1442810656&key=Dark-OXO
 
 ---
 
